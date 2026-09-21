@@ -1,0 +1,5 @@
+def hello(name):
+    print("barev", name)
+name=input("nam is")
+hello(name)
+
